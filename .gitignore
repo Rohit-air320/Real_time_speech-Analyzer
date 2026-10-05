@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+
+dataset/
+tts_data_hindi/
+tts_data_marathi/
+
+*.wav
+*.mp3
+*.zip
+
+results/
+
+# Python cache
+*.pyc
